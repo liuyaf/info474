@@ -1,6 +1,6 @@
 ### visualzation
 
-![image of viz](a1_sc.png)
+![image of viz](https://raw.githubusercontent.com/liuyaf/info474/master/a1/a1_sc.png)
 
 The dataset contains 6 variables, including name of antibiotics, name of bacteria, effectiveness of Penicillin, effectiveness of Streptomycin, effectivenss of Neomycin and Gram Staining. There are 2 nominal data and 3 quantitative data.
 
